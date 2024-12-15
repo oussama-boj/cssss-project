@@ -1,0 +1,30 @@
+body{
+    font-family: 'roboto', sans-serif;
+    background-image: url('bojboj.jpg');
+    background-size: cover;
+    /* background-size: contain; */
+
+    background-repeat: no-repeat; /* Pas de répétition de l'image */
+    background-position: center; /* Centre l'image */
+    color: white; /* Le texte devient blanc */
+    width: 100%;
+
+}
+nav{
+    display: inline;
+
+}
+.photo{
+    height: 200px;
+    width:200px;
+    border:5px double black
+}
+.video{
+    height:200px;
+    width:200px;
+    border:5px double black 
+    /* border-radius:50px; */
+}
+input{
+    border:5px double  black
+}
